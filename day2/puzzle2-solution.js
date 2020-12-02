@@ -5,7 +5,10 @@ It's quite straight-forward, the only fancy thing is the use of the XOR operator
 Notice also that pos1 and pos2 are 1-indexed, so we need to subtract 1 when
 accessing the array.
 
-Total complexity: O(n) time / O(1) memory (n passwords).
+Complexity with n passwords: 
+
+- Time: O(n)
+- Memory: O(1)
 */
 
 const data = require("./input");
@@ -13,13 +16,13 @@ const data = require("./input");
 let output = 0;
 
 const isPasswordValid = (pos1, pos2, char, password) => {
-  return (password[pos1 - 1] == char) ^ (password[pos2 - 1] == char);
+	return (password[pos1 - 1] == char) ^ (password[pos2 - 1] == char);
 };
 
 for (let [pos1, pos2, char, password] of data) {
-  if (isPasswordValid(pos1, pos2, char, password)) {
-    output++;
-  }
+	if (isPasswordValid(pos1, pos2, char, password)) {
+		output++;
+	}
 }
 
 console.log(output);

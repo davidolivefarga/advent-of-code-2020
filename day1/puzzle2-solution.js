@@ -8,7 +8,10 @@ element x we will do the following process:
   (notice this is the same calculation as in puzzle 1). If we do,
   we're finished and we just need to multiply them.
 
-Total complexity: O(n^2) time / O(n) memory.
+Complexity with n numbers:
+
+- Time: O(n^2)
+- Memory: O(n)
 */
 
 const nums = require("./input");
@@ -16,21 +19,21 @@ const nums = require("./input");
 let output;
 
 for (let i = 0; i < nums.length; i++) {
-  const target = 2020 - nums[i];
-  const visited = {};
+	const target = 2020 - nums[i];
+	const visited = {};
 
-  for (let j = i + 1; j < nums.length; j++) {
-    if (visited[target - nums[j]]) {
-      output = nums[i] * nums[j] * (target - nums[j]);
-      break;
-    } else {
-      visited[nums[j]] = true;
-    }
-  }
+	for (let j = i + 1; j < nums.length; j++) {
+		if (visited[target - nums[j]]) {
+			output = nums[i] * nums[j] * (target - nums[j]);
+			break;
+		} else {
+			visited[nums[j]] = true;
+		}
+	}
 
-  if (output) {
-    break;
-  }
+	if (output) {
+		break;
+	}
 }
 
 console.log(output);

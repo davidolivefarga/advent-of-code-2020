@@ -210,8 +210,8 @@ const input = `
     1827
     1974
     `
-  .trim()
-  .split(/\s+/)
-  .map((n) => parseInt(n, 10));
+	.trim()
+	.split(/\s+/)
+	.map((n) => parseInt(n, 10));
 
 module.exports = input;

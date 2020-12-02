@@ -1006,13 +1006,13 @@ const input = `
     4-11 n: ljgdnkgftmsvntnn
     16-19 t: tttttttttttttttttttt
     `
-  .trim()
-  .split(/\n/)
-  .map((d) => d.trim().replace("-", " ").replace(":", "").split(" "));
+	.trim()
+	.split(/\n/)
+	.map((d) => d.trim().replace("-", " ").replace(":", "").split(" "));
 
 input.forEach((d) => {
-  d[0] = parseInt(d[0], 10);
-  d[1] = parseInt(d[1], 10);
+	d[0] = parseInt(d[0], 10);
+	d[1] = parseInt(d[1], 10);
 });
 
 module.exports = input;
