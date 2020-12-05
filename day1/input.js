@@ -1,13 +1,3 @@
-/*
-An array of natural numbers where it is guaranteed that there are two numbers
-that sum 2020 and that there are three numbers that sum 2020
-
-Example: [1721, 266, 299, 33]
-
-(1721 + 299 = 2020)
-(1721 + 266 + 33 = 2020)
-*/
-
 const input = `
 1567
 1223
