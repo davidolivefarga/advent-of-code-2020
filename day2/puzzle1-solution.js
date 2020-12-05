@@ -1,14 +1,3 @@
-/*
-The objective is to find how many valid passwords do we have according to their
-policy (the amount of characters 'char' has to be in the range [min, max]).
-It's quite straight-forward, nothing fancy involved.
-
-Complexity with n passwords of length m: 
-
-- Time: O(n * m)
-- Memory: O(1)
-*/
-
 const data = require("./input");
 
 let output = 0;

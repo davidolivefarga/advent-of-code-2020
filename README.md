@@ -25,12 +25,12 @@ node day1/puzzle1-solution
 Here's the list of all days, along with the stars obtained in each of them.
 
 | Day | Stars |
-| --- | :---: |
+| :--- | :---: |
 | [Day 1 - Report Repair](./day1) | ⭐️ ⭐️ |
-| Day 2 - Password Philosophy | ⭐️ ⭐️ |
-| Day 3 - Tobbogan Trajectory | ⭐️ ⭐️ |
-| Day 4 - Passport Processing | ⭐️ ⭐️ |
-| Day 5 - Binary Boarding | ⭐️ ⭐️ |
+| [Day 2 - Password Philosophy](./day2) | ⭐️ ⭐️ |
+| [Day 3 - Tobbogan Trajectory](./day3) | ⭐️ ⭐️ |
+| [Day 4 - Passport Processing](./day4) | ⭐️ ⭐️ |
+| [Day 5 - Binary Boarding](./day5) | ⭐️ ⭐️ |
 | Day 6 - TBA | |
 | Day 7 - TBA | |
 | Day 8 - TBA | |

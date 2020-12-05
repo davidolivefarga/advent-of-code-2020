@@ -1,9 +1,3 @@
-/*
-An array where each element is of the format [min, max, char, password]
-
-Example: [4, 5, 'm', 'mmpth']
-*/
-
 const input = `
 4-5 m: mmpth
 1-7 r: rszchrrrzgr
