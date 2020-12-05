@@ -2,7 +2,7 @@
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/3).
 
-## Input
+## 📄 Input
 
 A matrix of `n` rows and `m` columns representing a map, which can have two values:
 
@@ -29,7 +29,7 @@ The map extends infinitely to the right by copying itself.
 ]
 ```
 
-## First puzzle
+## 1️⃣ First puzzle
 
 ### Objective
 
@@ -62,7 +62,7 @@ for (let i = 1; i < rows; i++) {
 console.log(output);
 ```
 
-## Second puzzle
+## 2️⃣ Second puzzle
 
 ### Objective
 

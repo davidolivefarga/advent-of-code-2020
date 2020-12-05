@@ -2,7 +2,7 @@
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/5).
 
-## Input
+## 📄 Input
 
 A list of `n` plane seats, which are represented as a string of 10 characters.
 
@@ -36,7 +36,7 @@ FFFBBBFRRR
 ]
 ```
 
-## First puzzle
+## 1️⃣ First puzzle
 
 ### Objective
 
@@ -85,7 +85,7 @@ for (let boardingPass of boardingPasses) {
 console.log(output);
 ```
 
-## Second puzzle
+## 2️⃣ Second puzzle
 
 ### Objective
 
