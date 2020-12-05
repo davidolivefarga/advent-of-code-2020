@@ -31,8 +31,8 @@ FFFBBBFRRR
 
 ```js
 [
-    `BFFFBBFRRR`,
-    `FFFBBBFRRR`
+    'BFFFBBFRRR',
+    'FFFBBBFRRR'
 ]
 ```
 
