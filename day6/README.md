@@ -2,7 +2,7 @@
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/6).
 
-## 📄 Input
+## ✍🏼 Input
 
 A list of `n` groups of forms, where each group contains `m` forms.
 
@@ -27,7 +27,7 @@ c
 ]
 ```
 
-## 1️⃣ First puzzle
+## 🧩 First puzzle
 
 ### Objective
 
@@ -67,7 +67,7 @@ for (let formGroup of formGroups) {
 console.log(output);
 ```
 
-## 2️⃣ Second puzzle
+## 🧩 Second puzzle
 
 ### Objective
 

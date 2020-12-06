@@ -2,7 +2,7 @@
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/1).
 
-## 📄 Input
+## ✍🏼 Input
 
 A list of `n` positive integers.
 
@@ -26,7 +26,7 @@ A list of `n` positive integers.
 ]
 ```
 
-## 1️⃣ First puzzle
+## 🧩 First puzzle
 
 ### Objective
 
@@ -61,7 +61,7 @@ for (let num of nums) {
 console.log(output);
 ```
 
-## 2️⃣ Second puzzle
+## 🧩 Second puzzle
 
 ### Objective
 

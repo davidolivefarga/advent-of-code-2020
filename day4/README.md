@@ -2,7 +2,7 @@
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/4).
 
-## 📄 Input
+## ✍🏼 Input
 
 A list of `n` passports that contain information of 8 fields (some might be missing):
 
@@ -42,7 +42,7 @@ hcl:#fffffd cid:350
 ]
 ```
 
-## 1️⃣ First puzzle
+## 🧩 First puzzle
 
 ### Objective
 
@@ -74,7 +74,7 @@ for (let passport of passports) {
 console.log(output);
 ```
 
-## 2️⃣ Second puzzle
+## 🧩 Second puzzle
 
 ### Objective
 

@@ -2,7 +2,7 @@
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/2).
 
-## 📄 Input
+## ✍🏼 Input
 
 A list of `n` passports of length `m`, along with their policies. 
 
@@ -28,7 +28,7 @@ Every line has the format `'n1-n2 c: p'`, where:
 ]
 ```
 
-## 1️⃣ First puzzle
+## 🧩 First puzzle
 
 ### Objective
 
@@ -78,7 +78,7 @@ for (let [min, max, char, password] of data) {
 console.log(output);
 ```
 
-## 2️⃣ Second puzzle
+## 🧩 Second puzzle
 
 ### Objective
 
