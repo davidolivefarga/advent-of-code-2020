@@ -32,7 +32,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 4 - Passport Processing](./day4) | ⭐️ ⭐️ |
 | [Day 5 - Binary Boarding](./day5) | ⭐️ ⭐️ |
 | [Day 6 - Custom Customs](./day6) | ⭐️ ⭐️ |
-| Day 7 - TBA | |
+| [Day 7 - Handy Haversacks](./day7) | ⭐️ ⭐️ |
 | Day 8 - TBA | |
 | Day 9 - TBA | |
 | Day 10 - TBA | |
