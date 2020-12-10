@@ -35,7 +35,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 7 - Handy Haversacks](./day7) | ⭐️ ⭐️ |
 | [Day 8 - Handheld Halting](./day8) | ⭐️ ⭐️ |
 | [Day 9 - Encoding Error](./day9) | ⭐️ ⭐️ |
-| Day 10 - TBA | |
+| [Day 10 - Adapter Array](./day10) | ⭐️ ⭐️ |
 | Day 11 - TBA | |
 | Day 12 - TBA | |
 | Day 13 - TBA | |
