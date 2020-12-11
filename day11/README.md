@@ -122,7 +122,7 @@ Apply transformations to the map until it becomes stable. Then, count how many o
 A transformation is applied to each map value, using the following rules:
 
 - If a seat is empty and has no occupied seats around it, it becomes occupied
-- If a seat is occupied and has four or more seats occupied around it, it becomes empty
+- If a seat is occupied and has five or more seats occupied around it, it becomes empty
 
 For this puzzle, _around it_ means the first seat that can be seen in each of the 8 directions.
 
