@@ -133,8 +133,8 @@ Again, pretty straighforward solution, the only interesting part is the rotation
 
 This time, we need to rotate the waypoint coordiates `(wn, we)` around the ship coordinates, which in the waypoint system of reference are `(0, 0)`. The simplest approach to this is to first consider how the coordinates are transformed with a 90 degrees rotation. Then, other rotations consist on repeating that step (for example, rotating right 270 degrees is the same as rotating right 90 degrees three times). If you make a drawing and try some numbers, you will quickly see that:
 
-- Rotate right 90 degrees: (wn, we) -> (-we, wn)
-- Rotate left 90 degrees: (wn, we) -> (we, -wn)
+- Rotate right 90 degrees: `(wn, we) -> (-we, wn)`
+- Rotate left 90 degrees: `(wn, we) -> (we, -wn)`
 
 While solving the puzzles I noticed that I was interpreting my coordinates as (north, east), but it feels more natural to use (east, north), to mimic the x and y coordinates. However, I was too lazy to change the code, so I adapted to these _rotated_ coordinates.
 
