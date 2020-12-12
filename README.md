@@ -37,7 +37,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 9 - Encoding Error](./day9) | ⭐️ ⭐️ |
 | [Day 10 - Adapter Array](./day10) | ⭐️ ⭐️ |
 | [Day 11 - Seating System](./day11) | ⭐️ ⭐️ |
-| Day 12 - TBA | |
+| [Day 12 - Rain Risk](./day12) | ⭐️ ⭐️ |
 | Day 13 - TBA | |
 | Day 14 - TBA | |
 | Day 15 - TBA | |
