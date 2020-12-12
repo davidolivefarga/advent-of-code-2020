@@ -1,4 +1,4 @@
-# Day 11 - Rain Risk
+# Day 12 - Rain Risk
 
 You can find the puzzles [here](https://adventofcode.com/2020/day/12).
 
