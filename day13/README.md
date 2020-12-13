@@ -86,7 +86,7 @@ Find the solution for any given input.
 
 ### Solution
 
-This problem consists on finding the smallest solution of a given modular equation system, and this can be done using the [Chinese Reminder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem). Let's see how this is done:
+This problem consists on finding the smallest solution of a given modular equation system, and this can be done using the [Chinese Reminder Theorem](https://en.wikipedia.org/wiki/Chinese_remainder_theorem). Notice that this is possible because the bus IDs are all prime numbers, so we're under valid conditions to apply the theorem. Let's see how this is done:
 
 1. First, we need to create our system of equations. Using the example from before:
    
