@@ -1,0 +1,33 @@
+{
+	"workbench.colorTheme": "New Moon",
+	"editor.suggestSelection": "first",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true,
+		"source.fixAll.eslint": true
+    },
+    "[json]": {
+        "editor.formatOnSave": false
+    },
+    "[markdown]": {
+        "editor.formatOnSave": false
+    },
+    "[yaml]": {
+        "editor.formatOnSave": false
+    },
+    "[scss]": {
+        "editor.formatOnSave": false
+    },
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"terminal.external.osxExec": "iTerm.app",
+	"terminal.integrated.shell.osx": "/bin/zsh",
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"window.zoomLevel": 0,
+	"editor.minimap.enabled": false,
+	"window.nativeTabs": true,
+	"markdown.extension.toc.updateOnSave": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"prettier.useTabs": true
+}{
+}
