@@ -41,7 +41,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 13 - Shuttle Search](./day13) | ⭐️ ⭐️ |
 | [Day 14 - Docking Data](./day14) | ⭐️ ⭐️ |
 | [Day 15 - Rambunctious Recitation](./day15) | ⭐️ ⭐️ |
-| Day 16 - TBA | |
+| [Day 16 - Ticket Translation](./day16) | ⭐️ ⭐️ |
 | Day 17 - TBA | |
 | Day 18 - TBA | |
 | Day 19 - TBA | |
