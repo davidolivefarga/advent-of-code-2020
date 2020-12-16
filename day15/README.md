@@ -102,7 +102,7 @@ Then I started trying several code improvements, some of them with incredible re
 - Using a `Map` instead of a hash object reduce the time from 7 minutes to 4.3 seconds
 - Removing some conditionals and the console.log, reduced that to 3.9 seconds
 
-I feel that is good enough, but I want to remark how impressive it is the difference between the `Map` and the hash object. I suspected that `Map` could be faster, but not at this level. When I have more time, I'll try to investigate the reason why this happens and edit this document.
+I feel that is good enough, but I want to remark how impressive it is the difference between the `Map` and the hash object. I suspected that `Map` could be faster, but not at this level. [Here](https://stackoverflow.com/a/49164774/13797741) it gives an explanation regarding why the performance change is so drastic.
 
 ```js
 /*
