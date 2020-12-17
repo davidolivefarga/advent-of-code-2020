@@ -42,7 +42,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 14 - Docking Data](./day14) | ⭐️ ⭐️ |
 | [Day 15 - Rambunctious Recitation](./day15) | ⭐️ ⭐️ |
 | [Day 16 - Ticket Translation](./day16) | ⭐️ ⭐️ |
-| Day 17 - TBA | |
+| [Day 17 - Conway Cubes](./day17) | ⭐️ ⭐️ |
 | Day 18 - TBA | |
 | Day 19 - TBA | |
 | Day 20 - TBA | |
