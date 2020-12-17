@@ -44,7 +44,7 @@ Calculate the amount of active nodes after 6 iterations.
 
 The puzzle difficulty is increasing! This is a more complicated version of [Day 11 - Puzzle 1](../day11/README.md#first-puzzle).
 
-At first, I attempted a similar strategy as the puzzle from Day 11, we as we're now playing with 3 dimensions, the code became very verbose. Yes, it worked, but I didn't feel comfortable creating maps holding maps that hold more maps, getting a coordinate from there was a mess. To avoid this huge amount of maps, I decided to encode a coordinate `(x, y z)` as `x@y@z`. This way, each coordinate has a unique code and this means I can use a single map to store them (at the price of constantly coding/encoding coordinates, but it is a price worth paying to keep the code small, simple and easy to read).
+At first, I attempted a similar strategy as the puzzle from Day 11, but as we're now playing with 3 dimensions, the code became very verbose. Yes, it worked, but I didn't feel comfortable creating maps holding maps that hold more maps, getting a coordinate from there was a mess. To avoid this huge amount of maps, I decided to encode a coordinate `(x, y, z)` as `x@y@z`. This way, each coordinate has a unique code and this means I can use a single map to store them (at the price of constantly coding/encoding coordinates, but it is a price worth paying to keep the code small, simple and easy to read).
 
 Now that we can store our coordinates in a single map, these are the steps we need to do in each iteration:
 
