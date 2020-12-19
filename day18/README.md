@@ -41,7 +41,7 @@ In my case, I chose to use postfix notation. Our problem consists now of two ste
 - Convert our infix expression to a postfix expression
 - Process the postifx expression
 
-**Infix expression to postfix expression**
+#### Infix expression to postfix expressio
 
 You can find the algorithm [here](https://runestone.academy/runestone/books/published/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html). Bascially, you need to follow these steps (which are tweaked to match the puzzle conditions):
 
@@ -54,7 +54,7 @@ You can find the algorithm [here](https://runestone.academy/runestone/books/publ
 
 If you follow this process, `2 * 3 + (4 * 5)` becomes `2 3 * 4 5 * +`.
 
-**Process a postfix expression**
+#### Process a postfix expression
 
 Processing a postfix expression is easy, in fact it is easier to process than an infix expression (why aren't we taught this way at school? 🤔).
 
@@ -67,7 +67,7 @@ The result of evaluating the expression will be the last remaining number in the
 
 For example, the result of evaluating `2 3 * 4 5 * +` is `26`.
 
-**Solution code**
+#### Solution code
 
 ```js
 /*
