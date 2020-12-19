@@ -43,7 +43,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 15 - Rambunctious Recitation](./day15) | ⭐️ ⭐️ |
 | [Day 16 - Ticket Translation](./day16) | ⭐️ ⭐️ |
 | [Day 17 - Conway Cubes](./day17) | ⭐️ ⭐️ |
-| Day 18 - TBA | |
+| [Day 18 - Operation Order](./day18) | ⭐️ ⭐️ |
 | Day 19 - TBA | |
 | Day 20 - TBA | |
 | Day 21 - TBA | |
