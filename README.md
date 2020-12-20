@@ -45,7 +45,7 @@ Here's the list of all days, along with the stars obtained in each of them.
 | [Day 17 - Conway Cubes](./day17) | ⭐️ ⭐️ |
 | [Day 18 - Operation Order](./day18) | ⭐️ ⭐️ |
 | [Day 19 - Monster Messages](./day19) | ⭐️ ⭐️ |
-| Day 20 - TBA | |
+| [Day 20 - Jurassic Jigsaw](./day20) | ⭐️ |
 | Day 21 - TBA | |
 | Day 22 - TBA | |
 | Day 23 - TBA | |
